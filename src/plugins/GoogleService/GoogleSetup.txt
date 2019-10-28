@@ -1,0 +1,1 @@
+<h1><a href="https://github.com/katekaho/project-guppi/blob/master/src/plugins/GoogleService/GoogleSetup.md" target="_blank">Click here to view the google setup instructions</a></h1>

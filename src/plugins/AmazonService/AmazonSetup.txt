@@ -1,0 +1,1 @@
+<h1><a href="https://github.com/katekaho/project-guppi/blob/master/src/plugins/AmazonService/AmazonSetup.md" target="_blank">Click here to view the AWS setup instructions</a></h1>
